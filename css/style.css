@@ -1,3 +1,15 @@
-body {
-    margin: 0;
+.container {
+    margin: 0 auto;
+    width: 1200px;
+    padding: 10px;
+    background-color: #fff999;
+}
+
+header {
+    align-items: center;
+    background-color: #ccc;
+}
+
+h2 {
+    color: #ff0000;
 }
