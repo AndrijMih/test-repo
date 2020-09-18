@@ -1,1 +1,1 @@
-https://andrijmih.github.io/rsschool-cv/
+https://andrijmih.github.io/test-repo/
